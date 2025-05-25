@@ -1,16 +1,10 @@
-2025-05-15 10:13:05 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
-2025-05-15 10:13:16 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
-2025-05-15 10:13:16 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
-2025-05-15 10:13:18 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
-2025-05-15 10:13:18 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
-2025-05-15 10:13:20 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
-2025-05-15 10:13:20 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
-2025-05-15 10:13:31 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
-2025-05-15 10:13:31 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
-2025-05-15 10:13:33 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
-2025-05-15 10:17:30 INFO  TC_001AccountRegistrationTest:24 - ****** Starting TC_001AccountRegistrationTest *********
-2025-05-15 10:17:30 INFO  TC_001AccountRegistrationTest:29 - Clicked on my Account Link
-2025-05-15 10:17:32 INFO  TC_001AccountRegistrationTest:31 - Clicked on my Register Link
-2025-05-15 10:17:32 INFO  TC_001AccountRegistrationTest:33 - Providing Customer details
-2025-05-15 10:17:33 INFO  TC_001AccountRegistrationTest:51 - Validating expected message..
-2025-05-15 10:17:43 INFO  TC_002LoginTest:16 - ****Starting TC_002LoginTest******
+2025-05-24 11:20:47 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
+2025-05-24 11:20:58 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
+2025-05-24 11:20:58 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
+2025-05-24 11:21:00 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
+2025-05-24 11:21:00 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
+2025-05-24 11:21:02 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
+2025-05-24 11:21:02 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
+2025-05-24 11:21:13 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
+2025-05-24 11:21:14 INFO  TC_003LoginDDT:17 - ****Starting TC_003LoginTestDDT******
+2025-05-24 11:21:16 INFO  TC_003LoginDDT:69 - ****Finished TC_003LoginTestDDT******
